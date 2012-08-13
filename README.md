@@ -1,4 +1,4 @@
 OpenSolver
 ==========
 
-An open source spreadsheet optimizer 
+An open source spreadsheet optimizer, available at http://opensolver.org 
